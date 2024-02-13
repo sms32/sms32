@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sms32)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://visitor-badge.laobi.icu/badge?page_id=sms32.sms32)
