@@ -1,1 +1,1 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=sms32)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sms32&show_icons=true&theme=tokyonight)
