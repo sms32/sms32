@@ -78,15 +78,13 @@ I build intelligent systems, lead student communities, and love crafting full-st
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+
 
 ---
 
 ### 🎨 Design & UI Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd)
 
 ---
 
@@ -96,33 +94,33 @@ I build intelligent systems, lead student communities, and love crafting full-st
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
+## 📌 Featured Projects
 
-## 🏆 GitHub-Style Achievements
-
-- 🏅 **Top 5% GitHub Contributor** – Regular open-source activity, commits, and contributions  
-- 🌟 **Starred Project** – Built tools used by devs across universities  
-- 🛠️ **Maintainer** – Created and maintained open-source utilities & internal tooling  
-- 💡 **Hackathon Winner** – Built award-winning AI/ML apps at IoT Odyssey  
-- 💬 **Mentor** – Guided 100+ students in ML, full stack, and Arduino dev  
-- 🚀 **Project Deployer** – Shipped 5+ production-ready web apps using GitHub + Vercel/Netlify  
-- 🎯 **Automation Champion** – Integrated GitHub Actions for builds and CI  
-- 📈 **Engagement Growth** – Boosted engagement by 80% with tools built for clubs and NGOs
+### 🏟️ Turfut – Football Turf Team Manager  
+A full-stack app to manage turf bookings, teams, attendance, payments & media — WhatsApp-style.  
+**Tech:** React, Firebase, Node.js, TailwindCSS  
+🔗 [View Project](https://github.com/sms32)
 
 ---
 
-## 📌 Projects Showcase
-
-### 🏟️ Turfut – Turf Booking App  
-A complete turf management app with team chat, payments & real-time attendance.  
-🔗 [GitHub](https://github.com/sms32) | **Tech:** React, Firebase, Node.js, TailwindCSS
-
 ### 🎭 Emotion-Based Movie Recommender  
-CNN-based emotion detection + S-BERT movie matcher for personalized suggestions.  
-🔗 [GitHub](https://github.com/sms32) | **Tech:** TensorFlow, OpenCV, Streamlit
+Detects real-time facial emotion and recommends movies using CNN + BERT.  
+**Tech:** TensorFlow, OpenCV, Streamlit, Sentence-BERT  
+🔗 [View Project](https://github.com/sms32)
 
-### 📷 Face Recognition Attendance  
-Offline app with face logging, audio feedback & Streamlit UI.  
-🔗 [GitHub](https://github.com/sms32) | **Tech:** Python, OpenCV, KNN
+---
+
+### 🧠 Memory Optimization via TSP  
+Solves memory fragmentation using 2-Opt and Nearest Neighbor — inspired by the TSP.  
+**Tech:** Python, NumPy, Matplotlib  
+🔗 [View Project](https://github.com/sms32)
+
+---
+
+### 📷 Face Recognition Attendance System  
+Offline face recognition system with attendance logging, voice feedback, and anti-duplication.  
+**Tech:** OpenCV, KNN, Streamlit, MD5 hashing  
+🔗 [View Project](https://github.com/sms32)
 
 ---
 
