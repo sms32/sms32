@@ -120,8 +120,9 @@ I build intelligent systems, lead student communities, and love crafting full-st
 ## 🗓️ Contribution Calendar
 
 <p align="center">
-  <img src="https://github.com/sms32/sms32/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
+  <img src="https://raw.githubusercontent.com/sms32/sms32/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
 </p>
+
 
 ---
 
