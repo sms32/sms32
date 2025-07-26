@@ -2,8 +2,9 @@
 <h3 align="center">AI Explorer • Full Stack Developer • ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFDD&center=true&vCenter=true&width=1000&lines=AI+Enthusiast+%7C+Full+Stack+Dev+%7C+Tech+Mentor;React%2C+FastAPI%2C+Firebase+%7C+ML+and+LLM+Projects;Hackathon+Champion+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFDD&center=true&vCenter=true&width=1000&lines=AI+Driven+Developer;Full+Stack+%7C+ML+%7C+Open+Source;Building+for+Impact" />
 </p>
+
 
 
 ---
