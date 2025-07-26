@@ -93,36 +93,7 @@ I build intelligent systems, lead student communities, and love crafting full-st
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
-## 📌 Featured Projects
 
-### 🏟️ Turfut – Football Turf Team Manager  
-A full-stack app to manage turf bookings, teams, attendance, payments & media — WhatsApp-style.  
-**Tech:** React, Firebase, Node.js, TailwindCSS  
-🔗 [View Project](https://github.com/sms32)
-
----
-
-### 🎭 Emotion-Based Movie Recommender  
-Detects real-time facial emotion and recommends movies using CNN + BERT.  
-**Tech:** TensorFlow, OpenCV, Streamlit, Sentence-BERT  
-🔗 [View Project](https://github.com/sms32)
-
----
-
-### 🧠 Memory Optimization via TSP  
-Solves memory fragmentation using 2-Opt and Nearest Neighbor — inspired by the TSP.  
-**Tech:** Python, NumPy, Matplotlib  
-🔗 [View Project](https://github.com/sms32)
-
----
-
-### 📷 Face Recognition Attendance System  
-Offline face recognition system with attendance logging, voice feedback, and anti-duplication.  
-**Tech:** OpenCV, KNN, Streamlit, MD5 hashing  
-🔗 [View Project](https://github.com/sms32)
-
----
 
 ## 📊 GitHub Stats
 
